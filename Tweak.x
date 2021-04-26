@@ -77,7 +77,7 @@ void setColor() {
         @"Orange" : [UIColor colorWithRed:1.00 green:0.58 blue:0.00 alpha:1.0],
         @"Yellow" : [UIColor colorWithRed:1.00 green:0.80 blue:0.00 alpha:1.0],
         @"Green" : [UIColor colorWithRed:0.16 green:0.80 blue:0.25 alpha:1.0],
-        @"Gray" : [UIColor colorWithRed:0.56 green:0.56 blue:0.58 alpha:1.0],
+        @"Gray" : [UIColor colorWithRed:0.80 green:0.80 blue:0.80 alpha:1.0],
     };
 
     color = [preferences valueForKey:@"isColor"];
